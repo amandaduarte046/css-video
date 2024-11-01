@@ -1,0 +1,106 @@
+/* Estilos para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Estilo para o Título 1 */
+.titulo-estilo1 {
+    font-size: 2.5em;
+    color: #115da8; /* Cor azul */
+    background-color: #5e949c; /* Fundo azul-claro */
+    padding: 15px 25px;
+    border-radius: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+
+/* Estilo para o Título 2 */
+.titulo-estilo2 {
+    font-size: 2.5em;
+    color: #2d5c2e; /* Cor verde */
+    background-color: #78c27e; /* Fundo verde-claro */
+    padding: 15px 25px;
+    border-radius: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+
+/* Estilo para o Título 3 */
+.titulo-estilo3 {
+    font-size: 2.5em;
+    color: #583da3; /* Cor azul */
+    background-color: #dfbbf0; /* Fundo azul-claro */
+    padding: 15px 25px;
+    border-radius: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+
+/* Estilo para o Título 4 */
+.titulo-estilo4 {
+    font-size: 2.5em;
+    color: #814747; /* Cor verde */
+    background-color: #c07d7d; /* Fundo verde-claro */
+    padding: 15px 25px;
+    border-radius: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+
+/* Estilo para o Texto 1 */
+.texto-estilo1 {
+    font-size: 1.2em;
+    color: #111010; /* Cor cinza-escuro */
+    background-color: #b2e9c7; /* Fundo azul-claro */
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+
+/* Estilo para o Texto 2 */
+.texto-estilo2 {
+    font-size: 1.2em;
+    color: #333; /* Cor cinza-escuro */
+    background-color: #a6cbf5; /* Fundo verde-claro */
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+/* Estilo para o Texto 3 */
+.texto-estilo3 {
+    font-size: 1.2em;
+    color: #333; /* Cor cinza-escuro */
+    background-color: #c29af0; /* Fundo verde-claro */
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+/* Estilo para o Texto 4 */
+.texto-estilo4 {
+    font-size: 1.2em;
+    color: #333; /* Cor cinza-escuro */
+    background-color: #c47d7d; /* Fundo verde-claro */
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
